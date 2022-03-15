@@ -1,0 +1,136 @@
+{
+    "Computer System Security": [
+        [
+            25409502,
+            "Homework Lab 5 Cryptography Practice 1",
+            "2022-03-20T04:00:00Z"
+        ],
+        [
+            25409352,
+            "Homework Lab4 Securing a website",
+            "2022-03-20T04:59:59Z"
+        ],
+        [
+            25409552,
+            "Homework Lab 6 PGP Key Exchange",
+            "2022-03-28T04:59:59Z"
+        ],
+        [
+            25409602,
+            "Homework Lab 7 Coding Practice for vulnerabilties",
+            "2022-04-04T04:59:59Z"
+        ],
+        [
+            25409620,
+            "Homework Lab 8 Protection from malware",
+            "2022-04-11T04:59:59Z"
+        ],
+        [
+            25409706,
+            "Homework Lab 9 Business Continuity",
+            "2022-04-18T04:59:59Z"
+        ],
+        [
+            25409760,
+            "Homework Lab 10 Simulated breach response",
+            "2022-04-25T04:59:59Z"
+        ],
+        [
+            25410034,
+            "Group Project PKI Implementation",
+            "2022-04-27T04:59:59Z"
+        ],
+        [
+            25410200,
+            "Final Exam",
+            "2022-05-06T04:59:59Z"
+        ]
+    ],
+    "FUND OF ALG DESIGN AND ANLYSIS": [
+        [
+            25691636,
+            "[Optional] HW5 Corrections",
+            "2022-03-26T04:59:59Z"
+        ],
+        [
+            25686794,
+            "[Bookkeeping] HW1-HW5 Corrections Late Submission Deadline",
+            "2022-03-28T04:59:59Z"
+        ],
+        [
+            25686798,
+            "[Bookkeeping] CP1-CP5 (except CP4) Late Submission Deadline",
+            "2022-04-04T04:59:59Z"
+        ],
+        [
+            25575292,
+            "[All Semester] Career Prep 4: Coding Interview Practice",
+            "2022-04-30T04:59:59Z"
+        ],
+        [
+            25617178,
+            "[Optional][All Semester] Job Application Extra Credit ",
+            "2022-04-30T04:59:59Z"
+        ],
+        [
+            25575342,
+            "[Optional][All Semester] LeetCode Extra Credit Problems",
+            "2022-04-30T04:59:59Z"
+        ],
+        [
+            25617180,
+            "[Optional][All Semester] Personal Project / Tutorial Extra Credit",
+            "2022-04-30T04:59:59Z"
+        ]
+    ],
+    "HUMAN FACTORS - SPRING 2022": [
+        [
+            25680172,
+            "Midterm Take-home Exam",
+            "2022-03-23T20:30:00Z"
+        ],
+        [
+            25412274,
+            "Project Midterm Report",
+            "2022-03-29T04:59:59Z"
+        ],
+        [
+            25412288,
+            "Project Final Report and Source Code",
+            "2022-04-18T04:59:59Z"
+        ],
+        [
+            25412336,
+            "Final Project Presentation",
+            "2022-05-03T04:59:59Z"
+        ]
+    ],
+    "INTRO DATA MINING INFO RETRVL": [
+        [
+            24423474,
+            "Assignment 4",
+            "2022-03-24T23:00:00Z"
+        ],
+        [
+            24423460,
+            "Assignment 5",
+            "2022-04-14T23:00:00Z"
+        ],
+        [
+            24423462,
+            "Assignment 6",
+            "2022-04-21T23:00:00Z"
+        ],
+        [
+            24423468,
+            "Assignment 7",
+            "2022-04-28T23:00:00Z"
+        ],
+        [
+            24423478,
+            "Project",
+            "2022-04-28T23:00:00Z"
+        ]
+    ],
+    "SOFTWARE ENGINEERING": []
+}
