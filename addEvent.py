@@ -27,24 +27,24 @@ def addEvent():
     end = (tomorrow + timedelta(hours=1)).isoformat()
 
 
-    # for course,items in data.items():
-    #     for item in items:
-    #         if(item[2] != None):
-    #             # start = datetime.now().date()
-    #             d = datetime.strptime(item[2],"%Y-%m-%dT%H:%M:%SZ")
-    #             deadline = datetime(d.year,d.month,d.day,d.hour,d.minute,d.second)
-    #             start = (deadline - timedelta(hours=10)).isoformat()
-    #             end = (deadline - timedelta(hours=5)).isoformat()
+    for course,items in data.items():
+        for item in items:
+            if(item[2] != None):
+                # start = datetime.now().date()
+                d = datetime.strptime(item[2],"%Y-%m-%dT%H:%M:%SZ")
+                deadline = datetime(d.year,d.month,d.day,d.hour,d.minute,d.second)
+                start = (deadline - timedelta(hours=10)).isoformat()
+                end = (deadline - timedelta(hours=5)).isoformat()
                
 
-    #             event_result = service.events().insert(calendarId='primary',
-    #                 body={
-    #                     "summary": str(course),
-    #                     "description": str(item[1]),
-    #                     "start":{"dateTime" : start, "timeZone": "America/Chicago"},
-    #                     "end" : {"dateTime" : end , "timeZone": "America/Chicago"},
-    #                     }
-    #                 ).execute()
+                event_result = service.events().insert(calendarId='primary',
+                    body={
+                        "summary": str(course),
+                        "description": str(item[1]),
+                        "start":{"dateTime" : start, "timeZone": "America/Chicago"},
+                        "end" : {"dateTime" : end , "timeZone": "America/Chicago"},
+                        }
+                    ).execute()
 
          
     f.close()  
